@@ -27,13 +27,19 @@ namespace WindowsFormsApp2
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void quenmatkhau_Click(object sender, EventArgs e)
         {
-
+            MessageBox.Show("Mật khẩu mới của bạn là abc123");
+            this.Close();
         }
         private void thoat_Click(object sender, EventArgs e)
         {
             this.Close();
+
+        }
+
+        private void quenmatkhau_Load(object sender, EventArgs e)
+        {
 
         }
     }

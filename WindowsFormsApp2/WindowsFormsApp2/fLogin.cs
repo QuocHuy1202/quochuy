@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class Form1 : Form
+    public partial class fLogin : Form
     {
-        public Form1()
+        public fLogin()
         {
             InitializeComponent();
         }
@@ -33,13 +33,16 @@ namespace WindowsFormsApp2
         private void dangki_Click(object sender, EventArgs e)
         {
             dangki f=new dangki();
+            this.Hide();
             f.ShowDialog();
-
+            this.Show();
         }
         private void quenmatkhau_Click(object sender, EventArgs e)
         {
             quenmatkhau f = new quenmatkhau();
+            this.Hide();
             f.ShowDialog();
+            this.Show();
 
         }
         private void dangnhap_Click(object sender, EventArgs e)
@@ -47,6 +50,7 @@ namespace WindowsFormsApp2
             giaodien f = new giaodien();
             this.Hide();
             f.ShowDialog();
+            this.Show();
 
         }
 

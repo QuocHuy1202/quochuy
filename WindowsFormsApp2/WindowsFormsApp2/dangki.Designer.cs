@@ -42,17 +42,21 @@
             this.panel4 = new System.Windows.Forms.Panel();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel3.SuspendLayout();
             this.panel4.SuspendLayout();
+            this.panel5.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.Controls.Add(this.textBox1);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(12, 12);
+            this.panel1.Location = new System.Drawing.Point(70, 131);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(776, 70);
             this.panel1.TabIndex = 0;
@@ -78,7 +82,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(546, 352);
+            this.button1.Location = new System.Drawing.Point(691, 475);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(118, 59);
             this.button1.TabIndex = 2;
@@ -88,18 +92,19 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(109, 352);
+            this.button2.Location = new System.Drawing.Point(109, 475);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(118, 59);
             this.button2.TabIndex = 5;
             this.button2.Text = "Đăng kí";
             this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.dangki_Click);
             // 
             // panel2
             // 
             this.panel2.Controls.Add(this.textBox2);
             this.panel2.Controls.Add(this.label2);
-            this.panel2.Location = new System.Drawing.Point(12, 88);
+            this.panel2.Location = new System.Drawing.Point(70, 207);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(776, 70);
             this.panel2.TabIndex = 6;
@@ -125,7 +130,7 @@
             // 
             this.panel3.Controls.Add(this.textBox3);
             this.panel3.Controls.Add(this.label3);
-            this.panel3.Location = new System.Drawing.Point(12, 164);
+            this.panel3.Location = new System.Drawing.Point(70, 283);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(776, 70);
             this.panel3.TabIndex = 7;
@@ -151,7 +156,7 @@
             // 
             this.panel4.Controls.Add(this.textBox4);
             this.panel4.Controls.Add(this.label4);
-            this.panel4.Location = new System.Drawing.Point(12, 240);
+            this.panel4.Location = new System.Drawing.Point(70, 359);
             this.panel4.Name = "panel4";
             this.panel4.Size = new System.Drawing.Size(776, 70);
             this.panel4.TabIndex = 8;
@@ -173,11 +178,38 @@
             this.label4.TabIndex = 0;
             this.label4.Text = "Email:";
             // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.textBox5);
+            this.panel5.Controls.Add(this.label5);
+            this.panel5.Location = new System.Drawing.Point(70, 55);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(776, 70);
+            this.panel5.TabIndex = 9;
+            // 
+            // textBox5
+            // 
+            this.textBox5.Location = new System.Drawing.Point(272, 23);
+            this.textBox5.Name = "textBox5";
+            this.textBox5.Size = new System.Drawing.Size(452, 22);
+            this.textBox5.TabIndex = 1;
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Location = new System.Drawing.Point(44, 20);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(58, 25);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Tên:";
+            // 
             // dangki
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(921, 671);
+            this.Controls.Add(this.panel5);
             this.Controls.Add(this.panel4);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
@@ -185,7 +217,9 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.panel1);
             this.Name = "dangki";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng kí";
+            this.Load += new System.EventHandler(this.dangki_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
@@ -194,6 +228,8 @@
             this.panel3.PerformLayout();
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -214,5 +250,8 @@
         private System.Windows.Forms.Panel panel4;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.Panel panel5;
+        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.Label label5;
     }
 }

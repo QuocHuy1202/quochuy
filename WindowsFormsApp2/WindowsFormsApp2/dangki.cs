@@ -35,5 +35,18 @@ namespace WindowsFormsApp2
         {
 
         }
+
+        private void dangki_Load(object sender, EventArgs e)
+        {
+
+        }
+        private void dangki_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Đăng kí thành công !!!");
+            this.Close();
+
+
+        }
+
     }
 }

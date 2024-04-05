@@ -36,11 +36,16 @@ namespace WindowsFormsApp2
         {
 
         }
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (MessageBox.Show("Bạn có thật sự muốn thoát?", "Thông báo", MessageBoxButtons.OKCancel) != System.Windows.Forms.DialogResult.OK)
+            {
+                e.Cancel = true;
+            }
+        }
         private void exit_Click(object sender, EventArgs e)
         {
-            Form1 f = new Form1();
-            this.Hide();
-            f.ShowDialog();
+            this.Close();
 
         }
         private void quanlitaikhoan_Click(object sender, EventArgs e)
@@ -48,13 +53,17 @@ namespace WindowsFormsApp2
             quanlitaikhoan f = new quanlitaikhoan();
             this.Hide();
             f.ShowDialog();
+            this.Show();
 
         }
         private void benhnhan_Click(object sender, EventArgs e)
         {
             benhnhan f = new benhnhan();
+
             this.Hide();
             f.ShowDialog();
+            this.Show();
+
 
         }
         private void thietbiyte_Click(object sender, EventArgs e)
@@ -62,6 +71,7 @@ namespace WindowsFormsApp2
             thietbiyte f = new thietbiyte();
             this.Hide();
             f.ShowDialog();
+            this.Show();
 
         }
         private void nhanvienyte_Click(object sender, EventArgs e)
@@ -69,7 +79,7 @@ namespace WindowsFormsApp2
             nhanvienyte f = new nhanvienyte();
             this.Hide();
             f.ShowDialog();
-
+            this.Show();
         }
 
     }

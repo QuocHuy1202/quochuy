@@ -101,7 +101,7 @@
             this.button1.TabIndex = 13;
             this.button1.Text = "Lấy lại mật khẩu";
             this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.quenmatkhau_Click);
             // 
             // button2
             // 
@@ -123,7 +123,9 @@
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
             this.Name = "quenmatkhau";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Quên mật khẩu";
+            this.Load += new System.EventHandler(this.quenmatkhau_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
