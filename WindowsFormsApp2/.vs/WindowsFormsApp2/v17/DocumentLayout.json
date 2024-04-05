@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\pkm\\WindowsFormsApp2\\",
+  "WorkspaceRootPath": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\pkm\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\pkm\\windowsformsapp2\\windowsformsapp2\\thietbiyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\thietbiyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\thietbiyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\thietbiyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\dangki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\pkm\\WindowsFormsApp2\\windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quenmatkhau.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,15 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "giaodien.cs",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\giaodien.cs",
-              "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
               "RelativeToolTip": "WindowsFormsApp2\\giaodien.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAowEEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,11 +67,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\Form1.cs",
-              "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [Design]",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T10:09:32.784Z",
@@ -79,11 +79,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "thietbiyte.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\thietbiyte.cs",
-              "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs [Design]",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\thietbiyte.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T10:02:45.24Z",
@@ -91,78 +91,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "benhnhan.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\benhnhan.cs",
-              "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs [Design]",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\benhnhan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T10:02:30.693Z"
+              "WhenOpened": "2024-04-05T10:02:30.693Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "nhanvienyte.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\nhanvienyte.cs",
               "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\nhanvienyte.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T10:02:21.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "quanlitaikhoan.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\quanlitaikhoan.cs",
               "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T10:02:03.451Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "giaodien.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\giaodien.cs",
               "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\giaodien.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T09:22:58.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "quenmatkhau.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\quenmatkhau.cs",
               "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\quenmatkhau.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T08:12:07.543Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "dangki.cs [Design]",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\dangki.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\dangki.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\dangki.cs",
               "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\dangki.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\dangki.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\dangki.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T07:17:28.985Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T07:17:28.985Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "quenmatkhau.cs",
-              "DocumentMoniker": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\quenmatkhau.cs",
-              "ToolTip": "D:\\pkm\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quenmatkhau.cs",
               "RelativeToolTip": "WindowsFormsApp2\\quenmatkhau.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
