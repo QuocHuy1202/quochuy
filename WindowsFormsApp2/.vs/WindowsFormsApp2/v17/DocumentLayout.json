@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\fchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\danhsachtaikhoanquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\danhsachtaikhoanquantri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\flogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\giaodien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\thietbiyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\thietbiyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,49 +50,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "fLogin.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fLogin.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\fLogin.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAIAxwDAAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:33:03.392Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quanlitaikhoan.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\quanlitaikhoan.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:48:58.192Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "danhsachtaikhoanquantri.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\danhsachtaikhoanquantri.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\danhsachtaikhoanquantri.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\danhsachtaikhoanquantri.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\danhsachtaikhoanquantri.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:47:00.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fChangePassword.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fChangePassword.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fChangePassword.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fChangePassword.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\fChangePassword.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAEwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:44:10.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fChangePassword.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fChangePassword.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fChangePassword.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fChangePassword.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:13:29.213Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "nhanvienyte.cs [Design]",
               "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\nhanvienyte.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs [Design]",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\nhanvienyte.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T16:47:48.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
+              "Title": "giaodien.cs",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\giaodien.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\giaodien.cs",
+              "RelativeToolTip": "WindowsFormsApp2\\giaodien.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA+wBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:35:17.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fLogin.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fLogin.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fLogin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T18:40:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "thietbiyte.cs [Design]",
               "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\thietbiyte.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs [Design]",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\thietbiyte.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\thietbiyte.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-05T16:47:45.521Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "quanlitaikhoan.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\quanlitaikhoan.cs",
-              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T16:45:05.739Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
               "Title": "benhnhan.cs [Design]",
               "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp2\\benhnhan.cs",
               "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\benhnhan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-05T10:02:30.693Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-05T10:02:30.693Z"
             }
           ]
         }

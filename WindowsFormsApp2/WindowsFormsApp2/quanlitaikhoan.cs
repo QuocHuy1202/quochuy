@@ -16,5 +16,24 @@ namespace WindowsFormsApp2
         {
             InitializeComponent();
         }
+
+        private void exit_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+        private void danhsachtaikhoanquantri_Click(object sender, EventArgs e)
+        {
+            danhsachtaikhoanquantri f=new danhsachtaikhoanquantri();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
+        private void changepassword_Click(object sender, EventArgs e)
+        {
+            fChangePassword f = new fChangePassword();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
+        }
     }
 }

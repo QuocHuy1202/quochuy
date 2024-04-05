@@ -58,6 +58,18 @@
     <Compile Include="dangki.Designer.cs">
       <DependentUpon>dangki.cs</DependentUpon>
     </Compile>
+    <Compile Include="danhsachtaikhoanquantri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="danhsachtaikhoanquantri.Designer.cs">
+      <DependentUpon>danhsachtaikhoanquantri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="fChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fChangePassword.Designer.cs">
+      <DependentUpon>fChangePassword.cs</DependentUpon>
+    </Compile>
     <Compile Include="fLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -101,6 +113,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="dangki.resx">
       <DependentUpon>dangki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="danhsachtaikhoanquantri.resx">
+      <DependentUpon>danhsachtaikhoanquantri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fChangePassword.resx">
+      <DependentUpon>fChangePassword.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fLogin.resx">
       <DependentUpon>fLogin.cs</DependentUpon>
