@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp2
 {
-    partial class danhsachtaikhoanquantri
+    partial class fListAcc
     {
         /// <summary>
         /// Required designer variable.

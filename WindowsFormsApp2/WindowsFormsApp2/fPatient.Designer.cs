@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp2
 {
-    partial class benhnhanchobenhnhan
+    partial class fPatient
     {
         /// <summary>
         /// Required designer variable.
@@ -300,13 +300,13 @@
             this.dgv.Size = new System.Drawing.Size(759, 389);
             this.dgv.TabIndex = 0;
             // 
-            // benhnhanchobenhnhan
+            // fPatient
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(887, 479);
             this.Controls.Add(this.tabControl1);
-            this.Name = "benhnhanchobenhnhan";
+            this.Name = "fPatient";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Bệnh nhân";
             this.tabControl1.ResumeLayout(false);

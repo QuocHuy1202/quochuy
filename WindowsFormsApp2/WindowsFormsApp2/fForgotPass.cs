@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class quenmatkhau : Form
+    public partial class fForgotPass : Form
     {
-        public quenmatkhau()
+        public fForgotPass()
         {
             InitializeComponent();
         }

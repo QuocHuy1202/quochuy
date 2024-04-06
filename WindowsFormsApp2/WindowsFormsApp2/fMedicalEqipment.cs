@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class thietbiyte : Form
+    public partial class fMedicalEqipment : Form
     {
-        public thietbiyte()
+        public fMedicalEqipment()
         {
             InitializeComponent();
         }

@@ -3,32 +3,20 @@
   "WorkspaceRootPath": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\benhnhanchobenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\benhnhanchobenhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fmedicaleqipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fmedicaleqipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\benhnhan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\taikhoanchobacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\taikhoanchobacsi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\nhanvienyte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\nvyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\nvyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\quanlitaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fdoctorforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fdoctorforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,86 +26,55 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "benhnhanchobenhnhan.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhanchobenhnhan.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\benhnhanchobenhnhan.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhanchobenhnhan.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\benhnhanchobenhnhan.cs [Design]",
+              "DocumentIndex": 2,
+              "Title": "fPatient.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fPatient.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fPatient.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fPatient.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fPatient.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:34:23.05Z",
+              "WhenOpened": "2024-04-06T07:29:50.245Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "benhnhan.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\benhnhan.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\benhnhan.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\benhnhan.cs [Design]",
+              "Title": "fDoctor.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fDoctor.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fDoctor.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fDoctor.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fDoctor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:34:21.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "taikhoanchobacsi.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\taikhoanchobacsi.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\taikhoanchobacsi.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\taikhoanchobacsi.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\taikhoanchobacsi.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:32:28.893Z"
+              "WhenOpened": "2024-04-06T07:16:18.107Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "nhanvienyte.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\nhanvienyte.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\nhanvienyte.cs [Design]",
+              "Title": "fDoctorforAdmin.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fDoctorforAdmin.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fDoctorforAdmin.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fDoctorforAdmin.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fDoctorforAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:34:30.482Z"
+              "WhenOpened": "2024-04-06T07:16:00.992Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "nhanvienyte.cs",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\nhanvienyte.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nhanvienyte.cs",
-              "RelativeToolTip": "WindowsFormsApp2\\nhanvienyte.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAawBUAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "fMedicalEqipment.cs [Design]",
+              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fMedicalEqipment.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp2\\fMedicalEqipment.cs",
+              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fMedicalEqipment.cs [Design]",
+              "RelativeToolTip": "WindowsFormsApp2\\fMedicalEqipment.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T06:09:14.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "nvyt.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nvyt.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\nvyt.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\nvyt.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\nvyt.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:34:39.212Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "quanlitaikhoan.cs [Design]",
-              "DocumentMoniker": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs",
-              "RelativeDocumentMoniker": "WindowsFormsApp2\\quanlitaikhoan.cs",
-              "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
-              "RelativeToolTip": "WindowsFormsApp2\\quanlitaikhoan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T05:32:38.784Z"
+              "WhenOpened": "2024-04-06T07:12:50.712Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

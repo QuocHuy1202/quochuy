@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp2
 {
-    partial class benhnhan
+    partial class fPatientforAdmin
     {
         /// <summary>
         /// Required designer variable.

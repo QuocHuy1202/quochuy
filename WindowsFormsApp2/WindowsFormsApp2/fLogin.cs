@@ -20,16 +20,10 @@ namespace WindowsFormsApp2
         {
             Application.Exit();
         }
-        private void dangki_Click(object sender, EventArgs e)
-        {
-            dangki f=new dangki();
-            this.Hide();
-            f.ShowDialog();
-            this.Show();
-        }
+      
         private void quenmatkhau_Click(object sender, EventArgs e)
         {
-            quenmatkhau f = new quenmatkhau();
+            fForgotPass f = new fForgotPass();
             this.Hide();
             f.ShowDialog();
             this.Show();
@@ -37,7 +31,7 @@ namespace WindowsFormsApp2
         }
         private void dangnhap_Click(object sender, EventArgs e)
         {
-            giaodien f = new giaodien();
+            fInterface f = new fInterface();
             this.Hide();
             f.ShowDialog();
             this.Show();

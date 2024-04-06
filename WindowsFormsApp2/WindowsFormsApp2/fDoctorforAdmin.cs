@@ -10,14 +10,21 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class nhanvienyte : Form
+    public partial class fDoctorforAdmin : Form
     {
-        public nhanvienyte()
+        public fDoctorforAdmin()
         {
             InitializeComponent();
+
         }
 
         private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+        
+
+        private void dateTimePicker3_ValueChanged(object sender, EventArgs e)
         {
 
         }

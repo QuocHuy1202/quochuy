@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class giaodien : Form
+    public partial class fInterface : Form
     {
-        public giaodien()
+        public fInterface()
         {
             InitializeComponent();
         }
@@ -31,7 +31,7 @@ namespace WindowsFormsApp2
         }
         private void quanlitaikhoan_Click(object sender, EventArgs e)
         {
-            quanlitaikhoan f = new quanlitaikhoan();
+            fAccManagementforAdmin f = new fAccManagementforAdmin();
             this.Hide();
             f.ShowDialog();
             this.Show();
@@ -39,7 +39,7 @@ namespace WindowsFormsApp2
         }
         private void benhnhan_Click(object sender, EventArgs e)
         {
-            benhnhan f = new benhnhan();
+            fPatientforAdmin f = new fPatientforAdmin();
 
             this.Hide();
             f.ShowDialog();
@@ -49,7 +49,7 @@ namespace WindowsFormsApp2
         }
         private void thietbiyte_Click(object sender, EventArgs e)
         {
-            thietbiyte f = new thietbiyte();
+            fMedicalEqipment f = new fMedicalEqipment();
             this.Hide();
             f.ShowDialog();
             this.Show();
@@ -57,7 +57,7 @@ namespace WindowsFormsApp2
         }
         private void nhanvienyte_Click(object sender, EventArgs e)
         {
-            nhanvienyte f = new nhanvienyte();
+            fDoctorforAdmin f = new fDoctorforAdmin();
             this.Hide();
             f.ShowDialog();
             this.Show();

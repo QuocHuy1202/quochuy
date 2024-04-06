@@ -10,13 +10,16 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class danhsachtaikhoanquantri : Form
+    public partial class fPatientforAdmin : Form
     {
-        public danhsachtaikhoanquantri()
+        public fPatientforAdmin()
         {
             InitializeComponent();
         }
 
-       
+        private void tabPage1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

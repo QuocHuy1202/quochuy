@@ -10,23 +10,15 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class quanlitaikhoan : Form
+    public partial class Account : Form
     {
-        public quanlitaikhoan()
+        public Account()
         {
             InitializeComponent();
         }
-
         private void exit_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-        private void danhsachtaikhoanquantri_Click(object sender, EventArgs e)
-        {
-            danhsachtaikhoanquantri f=new danhsachtaikhoanquantri();
-            this.Hide();
-            f.ShowDialog();
-            this.Show();
         }
         private void changepassword_Click(object sender, EventArgs e)
         {
@@ -34,6 +26,11 @@ namespace WindowsFormsApp2
             this.Hide();
             f.ShowDialog();
             this.Show();
+        }
+
+        private void Tai_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

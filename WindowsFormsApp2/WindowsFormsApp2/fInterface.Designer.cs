@@ -1,6 +1,6 @@
 ﻿namespace WindowsFormsApp2
 {
-    partial class giaodien
+    partial class fInterface
     {
         /// <summary>
         /// Required designer variable.
@@ -29,16 +29,16 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.button1 = new System.Windows.Forms.Button();
+            this.btnDoctor = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.panel2 = new System.Windows.Forms.Panel();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnPatient = new System.Windows.Forms.Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.panel3 = new System.Windows.Forms.Panel();
-            this.button3 = new System.Windows.Forms.Button();
+            this.btnMedicine = new System.Windows.Forms.Button();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.button4 = new System.Windows.Forms.Button();
-            this.button5 = new System.Windows.Forms.Button();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.btnAccManegement = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel2.SuspendLayout();
@@ -49,22 +49,22 @@
             // 
             // panel1
             // 
-            this.panel1.Controls.Add(this.button1);
+            this.panel1.Controls.Add(this.btnDoctor);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Location = new System.Drawing.Point(28, 27);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(238, 344);
             this.panel1.TabIndex = 0;
             // 
-            // button1
+            // btnDoctor
             // 
-            this.button1.Location = new System.Drawing.Point(17, 250);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(204, 78);
-            this.button1.TabIndex = 1;
-            this.button1.Text = "Nhân viên y tế";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.nhanvienyte_Click);
+            this.btnDoctor.Location = new System.Drawing.Point(17, 250);
+            this.btnDoctor.Name = "btnDoctor";
+            this.btnDoctor.Size = new System.Drawing.Size(204, 78);
+            this.btnDoctor.TabIndex = 1;
+            this.btnDoctor.Text = "Nhân viên y tế";
+            this.btnDoctor.UseVisualStyleBackColor = true;
+            this.btnDoctor.Click += new System.EventHandler(this.nhanvienyte_Click);
             // 
             // pictureBox1
             // 
@@ -78,22 +78,22 @@
             // 
             // panel2
             // 
-            this.panel2.Controls.Add(this.button2);
+            this.panel2.Controls.Add(this.btnPatient);
             this.panel2.Controls.Add(this.pictureBox2);
             this.panel2.Location = new System.Drawing.Point(292, 27);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(238, 344);
             this.panel2.TabIndex = 1;
             // 
-            // button2
+            // btnPatient
             // 
-            this.button2.Location = new System.Drawing.Point(17, 250);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(204, 78);
-            this.button2.TabIndex = 1;
-            this.button2.Text = "Bệnh nhân";
-            this.button2.UseVisualStyleBackColor = true;
-            this.button2.Click += new System.EventHandler(this.benhnhan_Click);
+            this.btnPatient.Location = new System.Drawing.Point(17, 250);
+            this.btnPatient.Name = "btnPatient";
+            this.btnPatient.Size = new System.Drawing.Size(204, 78);
+            this.btnPatient.TabIndex = 1;
+            this.btnPatient.Text = "Bệnh nhân";
+            this.btnPatient.UseVisualStyleBackColor = true;
+            this.btnPatient.Click += new System.EventHandler(this.benhnhan_Click);
             // 
             // pictureBox2
             // 
@@ -107,23 +107,23 @@
             // 
             // panel3
             // 
-            this.panel3.Controls.Add(this.button3);
+            this.panel3.Controls.Add(this.btnMedicine);
             this.panel3.Controls.Add(this.pictureBox3);
             this.panel3.Location = new System.Drawing.Point(550, 27);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(238, 344);
             this.panel3.TabIndex = 2;
-         
             // 
-            // button3
+            // btnMedicine
             // 
-            this.button3.Location = new System.Drawing.Point(17, 250);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(204, 78);
-            this.button3.TabIndex = 1;
-            this.button3.Text = "Thiết bị y tế";
-            this.button3.UseVisualStyleBackColor = true;
-            this.button3.Click += new System.EventHandler(this.thietbiyte_Click);
+            this.btnMedicine.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F);
+            this.btnMedicine.Location = new System.Drawing.Point(17, 250);
+            this.btnMedicine.Name = "btnMedicine";
+            this.btnMedicine.Size = new System.Drawing.Size(204, 78);
+            this.btnMedicine.TabIndex = 1;
+            this.btnMedicine.Text = "Thiết bị y tế";
+            this.btnMedicine.UseVisualStyleBackColor = true;
+            this.btnMedicine.Click += new System.EventHandler(this.thietbiyte_Click);
             // 
             // pictureBox3
             // 
@@ -135,37 +135,37 @@
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
             // 
-            // button4
+            // btnExit
             // 
-            this.button4.Location = new System.Drawing.Point(589, 377);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(154, 61);
-            this.button4.TabIndex = 3;
-            this.button4.Text = "Thoát";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.exit_Click);
+            this.btnExit.Location = new System.Drawing.Point(589, 377);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(154, 61);
+            this.btnExit.TabIndex = 3;
+            this.btnExit.Text = "Thoát";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.exit_Click);
             // 
-            // button5
+            // btnAccManegement
             // 
-            this.button5.Location = new System.Drawing.Point(62, 377);
-            this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(154, 61);
-            this.button5.TabIndex = 4;
-            this.button5.Text = "Quản lí tài khoản";
-            this.button5.UseVisualStyleBackColor = true;
-            this.button5.Click += new System.EventHandler(this.quanlitaikhoan_Click);
+            this.btnAccManegement.Location = new System.Drawing.Point(62, 377);
+            this.btnAccManegement.Name = "btnAccManegement";
+            this.btnAccManegement.Size = new System.Drawing.Size(154, 61);
+            this.btnAccManegement.TabIndex = 4;
+            this.btnAccManegement.Text = "Quản lí tài khoản";
+            this.btnAccManegement.UseVisualStyleBackColor = true;
+            this.btnAccManegement.Click += new System.EventHandler(this.quanlitaikhoan_Click);
             // 
-            // giaodien
+            // fInterface
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.button5);
-            this.Controls.Add(this.button4);
+            this.Controls.Add(this.btnAccManegement);
+            this.Controls.Add(this.btnExit);
             this.Controls.Add(this.panel3);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Name = "giaodien";
+            this.Name = "fInterface";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Giao diện";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
@@ -182,15 +182,15 @@
         #endregion
 
         private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnDoctor;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnPatient;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.Button btnMedicine;
         private System.Windows.Forms.PictureBox pictureBox3;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Button button5;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Button btnAccManegement;
     }
 }

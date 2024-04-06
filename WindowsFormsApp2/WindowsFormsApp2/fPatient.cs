@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class nvyt : Form
+    public partial class fPatient : Form
     {
-        public nvyt()
+        public fPatient()
         {
             InitializeComponent();
         }

@@ -10,15 +10,23 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class taikhoanchobacsi : Form
+    public partial class fAccManagementforAdmin : Form
     {
-        public taikhoanchobacsi()
+        public fAccManagementforAdmin()
         {
             InitializeComponent();
         }
+
         private void exit_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+        private void danhsachtaikhoanquantri_Click(object sender, EventArgs e)
+        {
+            fListAcc f=new fListAcc();
+            this.Hide();
+            f.ShowDialog();
+            this.Show();
         }
         private void changepassword_Click(object sender, EventArgs e)
         {

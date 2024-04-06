@@ -28,114 +28,103 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.taikhoan = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.matkhau = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.dangki = new System.Windows.Forms.Button();
-            this.exit = new System.Windows.Forms.Button();
-            this.dangnhap = new System.Windows.Forms.Button();
-            this.quenmatkhau = new System.Windows.Forms.Button();
+            this.panelAcc = new System.Windows.Forms.Panel();
+            this.textAcc = new System.Windows.Forms.TextBox();
+            this.lblAcc = new System.Windows.Forms.Label();
+            this.panelPass = new System.Windows.Forms.Panel();
+            this.textPass = new System.Windows.Forms.TextBox();
+            this.lblPass = new System.Windows.Forms.Label();
+            this.btnExit = new System.Windows.Forms.Button();
+            this.btnSignIn = new System.Windows.Forms.Button();
+            this.btnForgotpass = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.panel1.SuspendLayout();
-            this.panel3.SuspendLayout();
+            this.panelAcc.SuspendLayout();
+            this.panelPass.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
-            // panel1
+            // panelAcc
             // 
-            this.panel1.Controls.Add(this.taikhoan);
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(251, 57);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(525, 79);
-            this.panel1.TabIndex = 10;
+            this.panelAcc.Controls.Add(this.textAcc);
+            this.panelAcc.Controls.Add(this.lblAcc);
+            this.panelAcc.Location = new System.Drawing.Point(251, 57);
+            this.panelAcc.Name = "panelAcc";
+            this.panelAcc.Size = new System.Drawing.Size(525, 79);
+            this.panelAcc.TabIndex = 10;
             // 
-            // taikhoan
+            // textAcc
             // 
-            this.taikhoan.Location = new System.Drawing.Point(215, 33);
-            this.taikhoan.Name = "taikhoan";
-            this.taikhoan.Size = new System.Drawing.Size(280, 22);
-            this.taikhoan.TabIndex = 1;
+            this.textAcc.Location = new System.Drawing.Point(215, 33);
+            this.textAcc.Name = "textAcc";
+            this.textAcc.Size = new System.Drawing.Size(281, 22);
+            this.textAcc.TabIndex = 1;
             // 
-            // label1
+            // lblAcc
             // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(20, 29);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(120, 25);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Tài khoản:";
+            this.lblAcc.AutoSize = true;
+            this.lblAcc.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblAcc.Location = new System.Drawing.Point(21, 29);
+            this.lblAcc.Name = "lblAcc";
+            this.lblAcc.Size = new System.Drawing.Size(120, 25);
+            this.lblAcc.TabIndex = 0;
+            this.lblAcc.Text = "Tài khoản:";
             // 
-            // panel3
+            // panelPass
             // 
-            this.panel3.Controls.Add(this.matkhau);
-            this.panel3.Controls.Add(this.label3);
-            this.panel3.Location = new System.Drawing.Point(251, 191);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(525, 79);
-            this.panel3.TabIndex = 11;
+            this.panelPass.Controls.Add(this.textPass);
+            this.panelPass.Controls.Add(this.lblPass);
+            this.panelPass.Location = new System.Drawing.Point(251, 191);
+            this.panelPass.Name = "panelPass";
+            this.panelPass.Size = new System.Drawing.Size(525, 79);
+            this.panelPass.TabIndex = 11;
             // 
-            // matkhau
+            // textPass
             // 
-            this.matkhau.Location = new System.Drawing.Point(215, 32);
-            this.matkhau.Name = "matkhau";
-            this.matkhau.Size = new System.Drawing.Size(280, 22);
-            this.matkhau.TabIndex = 2;
-            this.matkhau.UseSystemPasswordChar = true;
+            this.textPass.Location = new System.Drawing.Point(215, 32);
+            this.textPass.Name = "textPass";
+            this.textPass.Size = new System.Drawing.Size(281, 22);
+            this.textPass.TabIndex = 2;
+            this.textPass.UseSystemPasswordChar = true;
             // 
-            // label3
+            // lblPass
             // 
-            this.label3.AutoSize = true;
-            this.label3.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(20, 29);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(119, 25);
-            this.label3.TabIndex = 0;
-            this.label3.Text = "Mật khẩu:";
+            this.lblPass.AutoSize = true;
+            this.lblPass.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblPass.Location = new System.Drawing.Point(21, 29);
+            this.lblPass.Name = "lblPass";
+            this.lblPass.Size = new System.Drawing.Size(119, 25);
+            this.lblPass.TabIndex = 0;
+            this.lblPass.Text = "Mật khẩu:";
             // 
-            // dangki
+            // btnExit
             // 
-            this.dangki.Location = new System.Drawing.Point(261, 354);
-            this.dangki.Name = "dangki";
-            this.dangki.Size = new System.Drawing.Size(97, 51);
-            this.dangki.TabIndex = 15;
-            this.dangki.Text = "Đăng kí";
-            this.dangki.UseVisualStyleBackColor = true;
-            this.dangki.Click += new System.EventHandler(this.dangki_Click);
+            this.btnExit.Location = new System.Drawing.Point(595, 354);
+            this.btnExit.Name = "btnExit";
+            this.btnExit.Size = new System.Drawing.Size(97, 51);
+            this.btnExit.TabIndex = 14;
+            this.btnExit.Text = "Thoát";
+            this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.exit_Click);
             // 
-            // exit
+            // btnSignIn
             // 
-            this.exit.Location = new System.Drawing.Point(649, 354);
-            this.exit.Name = "exit";
-            this.exit.Size = new System.Drawing.Size(97, 51);
-            this.exit.TabIndex = 14;
-            this.exit.Text = "Thoát";
-            this.exit.UseVisualStyleBackColor = true;
-            this.exit.Click += new System.EventHandler(this.exit_Click);
+            this.btnSignIn.Location = new System.Drawing.Point(345, 354);
+            this.btnSignIn.Name = "btnSignIn";
+            this.btnSignIn.Size = new System.Drawing.Size(97, 51);
+            this.btnSignIn.TabIndex = 13;
+            this.btnSignIn.Text = "Đăng nhập";
+            this.btnSignIn.UseVisualStyleBackColor = true;
+            this.btnSignIn.Click += new System.EventHandler(this.dangnhap_Click);
             // 
-            // dangnhap
+            // btnForgotpass
             // 
-            this.dangnhap.Location = new System.Drawing.Point(70, 354);
-            this.dangnhap.Name = "dangnhap";
-            this.dangnhap.Size = new System.Drawing.Size(97, 51);
-            this.dangnhap.TabIndex = 13;
-            this.dangnhap.Text = "Đăng nhập";
-            this.dangnhap.UseVisualStyleBackColor = true;
-            this.dangnhap.Click += new System.EventHandler(this.dangnhap_Click);
-            // 
-            // quenmatkhau
-            // 
-            this.quenmatkhau.Location = new System.Drawing.Point(466, 354);
-            this.quenmatkhau.Name = "quenmatkhau";
-            this.quenmatkhau.Size = new System.Drawing.Size(97, 51);
-            this.quenmatkhau.TabIndex = 12;
-            this.quenmatkhau.Text = "Quên mật khẩu";
-            this.quenmatkhau.UseVisualStyleBackColor = true;
-            this.quenmatkhau.Click += new System.EventHandler(this.quenmatkhau_Click);
+            this.btnForgotpass.Location = new System.Drawing.Point(110, 354);
+            this.btnForgotpass.Name = "btnForgotpass";
+            this.btnForgotpass.Size = new System.Drawing.Size(97, 51);
+            this.btnForgotpass.TabIndex = 12;
+            this.btnForgotpass.Text = "Quên mật khẩu";
+            this.btnForgotpass.UseVisualStyleBackColor = true;
+            this.btnForgotpass.Click += new System.EventHandler(this.quenmatkhau_Click);
             // 
             // pictureBox1
             // 
@@ -152,22 +141,22 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.panelAcc);
             this.Controls.Add(this.pictureBox1);
-            this.Controls.Add(this.panel3);
-            this.Controls.Add(this.dangki);
-            this.Controls.Add(this.exit);
-            this.Controls.Add(this.dangnhap);
-            this.Controls.Add(this.quenmatkhau);
+            this.Controls.Add(this.panelPass);
+            this.Controls.Add(this.btnExit);
+            this.Controls.Add(this.btnSignIn);
+            this.Controls.Add(this.btnForgotpass);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F);
             this.Name = "fLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng nhập";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
+            this.panelAcc.ResumeLayout(false);
+            this.panelAcc.PerformLayout();
+            this.panelPass.ResumeLayout(false);
+            this.panelPass.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
 
@@ -175,17 +164,16 @@
 
         #endregion
 
-        private System.Windows.Forms.Panel panel1;
-        private System.Windows.Forms.TextBox taikhoan;
-        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Panel panelAcc;
+        private System.Windows.Forms.TextBox textAcc;
+        private System.Windows.Forms.Label lblAcc;
         private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Panel panel3;
-        private System.Windows.Forms.TextBox matkhau;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.Button dangki;
-        private System.Windows.Forms.Button exit;
-        private System.Windows.Forms.Button dangnhap;
-        private System.Windows.Forms.Button quenmatkhau;
+        private System.Windows.Forms.Panel panelPass;
+        private System.Windows.Forms.TextBox textPass;
+        private System.Windows.Forms.Label lblPass;
+        private System.Windows.Forms.Button btnExit;
+        private System.Windows.Forms.Button btnSignIn;
+        private System.Windows.Forms.Button btnForgotpass;
     }
 }
 
