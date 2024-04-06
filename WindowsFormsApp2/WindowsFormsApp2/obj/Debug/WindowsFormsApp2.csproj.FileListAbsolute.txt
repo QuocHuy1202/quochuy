@@ -64,3 +64,6 @@ D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsForms
 D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
 D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
 D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.benhnhanchobenhnhan.resources
+D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.nvyt.resources
+D:\study\github\quochuy\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.taikhoanchobacsi.resources

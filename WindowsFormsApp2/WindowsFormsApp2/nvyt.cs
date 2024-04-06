@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace WindowsFormsApp2
 {
-    public partial class benhnhan : Form
+    public partial class nvyt : Form
     {
-        public benhnhan()
+        public nvyt()
         {
             InitializeComponent();
-        }
-
-        private void tabPage1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
