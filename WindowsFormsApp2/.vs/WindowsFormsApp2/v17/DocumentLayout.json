@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fmedicaleqipment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\fdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fdoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\fpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fpatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|d:\\study\\github\\quochuy\\windowsformsapp2\\windowsformsapp2\\fdoctorforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|D:\\study\\github\\quochuy\\WindowsFormsApp2\\windowsformsapp2\\fdoctorforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4444E0BC-8EF2-477E-A0CB-8F009936A416}|WindowsFormsApp2\\WindowsFormsApp2.csproj|solutionrelative:windowsformsapp2\\fdoctorforadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -37,8 +37,7 @@
               "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fPatient.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\fPatient.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T07:29:50.245Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-06T07:29:50.245Z"
             },
             {
               "$type": "Document",
@@ -49,8 +48,7 @@
               "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fDoctor.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\fDoctor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T07:16:18.107Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-06T07:16:18.107Z"
             },
             {
               "$type": "Document",
@@ -61,8 +59,7 @@
               "ToolTip": "D:\\study\\github\\quochuy\\WindowsFormsApp2\\WindowsFormsApp2\\fDoctorforAdmin.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp2\\fDoctorforAdmin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T07:16:00.992Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-06T07:16:00.992Z"
             },
             {
               "$type": "Document",
